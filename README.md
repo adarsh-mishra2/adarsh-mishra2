@@ -52,9 +52,9 @@ Here are some ideas to get you started:
   
 ### 📊 GitHub Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adarsh-mishra2&theme=dark)](https://git.io/streak-stats)<br/>
-<!--![](https://github-readme-stats.vercel.app/api?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SakshiGoyat&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
--->
+![](https://github-readme-stats-six-iota-78.vercel.app/api?username=adarsh-mishra2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br />
+![](https://github-readme-stats-six-iota-78.vercel.app/api/top-langs/?username=adarsh-mishra2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
