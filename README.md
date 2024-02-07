@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently exploring **Machine learning**
 
-- 👨‍💻 Know me more <a href="https://sakshi-goyat-portfolio.netlify.app" style="text-decoration: none;">Portfolio</a>
+- 👨‍💻 Know me more <a href="#" style="text-decoration: none;">Portfolio</a>
 
 - 📝 Feel free to reach out to me here: <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=adarshmishra00002@gmail.com" style="text-decoration: none;">Email</a>
 
