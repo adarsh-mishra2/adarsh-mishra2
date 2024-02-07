@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" >
-  <img width="300" heigth="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdwNGFnOGozeG82OXg3MWNuNHduZHNtY3Zkd2dvYWc3dDhtbG5ibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding">
+  <img width="270" heigth="270" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazdwNGFnOGozeG82OXg3MWNuNHduZHNtY3Zkd2dvYWc3dDhtbG5ibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="coding">
 </div>
 
 <h1 align="center">Hi 👋, I'm Adarsh Mishra</h1>
